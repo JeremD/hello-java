@@ -4,7 +4,7 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		// Ici il faut ajouter du code pour la suite
-		return;
+		System.out.print("hello");
 	}
 
 }
